@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\ref\DBApi.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\bin\Debug\net5.0\DBApi.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\ref\DBApi.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\DBApi\DBApi\obj\Debug\net5.0\DBApi.genruntimeconfig.cache
