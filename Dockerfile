@@ -8,7 +8,7 @@ WORKDIR /src
 COPY ["DBApi/DBApi.csproj", "DBApi/"]
 RUN dotnet restore "DBApi/DBApi.csproj"
 COPY . .
-WORKDIR "/src/Login"
+WORKDIR "/src/DBApi"
 RUN dotnet build "DBApi.csproj" -c Release -o /app/build
 
 FROM build AS publish
